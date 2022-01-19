@@ -1,0 +1,7 @@
+.banner-innerpage{
+    background: linear-gradient(to bottom, rgba(27, 26, 26, 0.8) 0%, rgba(27, 26, 26, 0.8) 100%), url("../../../assets/images/landingpage/banner-bg2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}

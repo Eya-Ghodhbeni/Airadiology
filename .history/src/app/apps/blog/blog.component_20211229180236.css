@@ -1,0 +1,14 @@
+.title-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 154.9%;
+    /* or 112px */
+
+    display: flex;
+    float: right;
+    }
+.btn-md{
+    background-color:#00C853;
+}

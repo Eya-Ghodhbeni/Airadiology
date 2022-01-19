@@ -1,0 +1,17 @@
+.title-text{
+    position: absolute;
+    width: 624px;
+    height: 330px;
+    left: 84px;
+    top: 375px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 154.9%;
+    /* or 112px */
+
+    display: flex;
+    align-items: center;
+}

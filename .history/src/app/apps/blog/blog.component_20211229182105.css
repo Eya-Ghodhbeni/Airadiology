@@ -1,0 +1,50 @@
+.title-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 154.9%;
+    /* or 112px */
+
+    display: flex;
+    float: right;
+    }
+.btn-md{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 154.9%;
+    /* or 37px */
+
+    align-items: center;
+    text-align: center;
+    background-color:#00C853;
+    color: #ffffff;
+}
+    .btn-md:hover{
+        background-color:#ffffff;
+        color:#00C853
+    }
+
+.spacer{
+    height: 20px;
+    background-color: #00C853;
+}
+    h2{
+        color: #ffffff;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+
+        /* or 71px */
+    
+        align-items: center;
+        text-align: center;
+    }
+        a{
+            font-weight: bold; 
+            font-size: 50px;
+        }
+
